@@ -1,7 +1,7 @@
 [
   {
     "predicted_at": "2026-05-15 18:23",
-    "for_draw_number": 1994,
+    "for_draw_number": 1946,
     "after_draw": "12-05-2026",
     "predictions": [
       {
@@ -67,6 +67,81 @@
         "stars": [
           6,
           11
+        ]
+      }
+    ],
+    "checked": false,
+    "actual_draw": null,
+    "accuracy": null
+  },
+  {
+    "predicted_at": "2026-05-18 17:44",
+    "for_draw_number": 1947,
+    "after_draw": "15-05-2026",
+    "predictions": [
+      {
+        "numbers": [
+          7,
+          29,
+          31,
+          43,
+          45
+        ],
+        "stars": [
+          1,
+          11
+        ]
+      },
+      {
+        "numbers": [
+          12,
+          17,
+          25,
+          37,
+          41
+        ],
+        "stars": [
+          6,
+          12
+        ]
+      },
+      {
+        "numbers": [
+          10,
+          13,
+          16,
+          36,
+          43
+        ],
+        "stars": [
+          3,
+          12
+        ]
+      },
+      {
+        "numbers": [
+          1,
+          5,
+          9,
+          19,
+          48
+        ],
+        "stars": [
+          6,
+          10
+        ]
+      },
+      {
+        "numbers": [
+          7,
+          11,
+          36,
+          41,
+          44
+        ],
+        "stars": [
+          3,
+          12
         ]
       }
     ],
