@@ -195,9 +195,58 @@
         ]
       }
     ],
-    "checked": false,
-    "actual_draw": null,
-    "accuracy": null
+    "checked": true,
+    "actual_draw": {
+      "date": "19-05-2026",
+      "numbers": [
+        2,
+        12,
+        20,
+        38,
+        45
+      ],
+      "stars": [
+        2,
+        5
+      ],
+      "draw_number": 1947
+    },
+    "accuracy": [
+      {
+        "numbers_match": 1,
+        "stars_match": 0,
+        "matched_numbers": [
+          45
+        ],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 1,
+        "stars_match": 0,
+        "matched_numbers": [
+          12
+        ],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      }
+    ]
   },
   {
     "predicted_at": "2026-05-19 09:01",
@@ -270,9 +319,58 @@
         ]
       }
     ],
-    "checked": false,
-    "actual_draw": null,
-    "accuracy": null
+    "checked": true,
+    "actual_draw": {
+      "date": "19-05-2026",
+      "numbers": [
+        2,
+        12,
+        20,
+        38,
+        45
+      ],
+      "stars": [
+        2,
+        5
+      ],
+      "draw_number": 1947
+    },
+    "accuracy": [
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 1,
+        "stars_match": 0,
+        "matched_numbers": [
+          38
+        ],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 1,
+        "matched_numbers": [],
+        "matched_stars": [
+          5
+        ]
+      }
+    ]
   },
   {
     "predicted_at": "2026-05-19 11:23",
@@ -342,6 +440,209 @@
         "stars": [
           1,
           2
+        ]
+      }
+    ],
+    "checked": true,
+    "actual_draw": {
+      "date": "19-05-2026",
+      "numbers": [
+        2,
+        12,
+        20,
+        38,
+        45
+      ],
+      "stars": [
+        2,
+        5
+      ],
+      "draw_number": 1947
+    },
+    "accuracy": [
+      {
+        "numbers_match": 1,
+        "stars_match": 0,
+        "matched_numbers": [
+          12
+        ],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 1,
+        "stars_match": 0,
+        "matched_numbers": [
+          2
+        ],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 1,
+        "stars_match": 0,
+        "matched_numbers": [
+          20
+        ],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 1,
+        "matched_numbers": [],
+        "matched_stars": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "predicted_at": "2026-05-22 09:00",
+    "for_draw_number": 1948,
+    "after_draw": "19-05-2026",
+    "predictions": [
+      {
+        "numbers": [
+          3,
+          9,
+          37,
+          48,
+          50
+        ],
+        "stars": [
+          3,
+          10
+        ]
+      },
+      {
+        "numbers": [
+          24,
+          27,
+          28,
+          43,
+          49
+        ],
+        "stars": [
+          5,
+          11
+        ]
+      },
+      {
+        "numbers": [
+          21,
+          26,
+          33,
+          43,
+          48
+        ],
+        "stars": [
+          4,
+          9
+        ]
+      },
+      {
+        "numbers": [
+          25,
+          27,
+          29,
+          39,
+          47
+        ],
+        "stars": [
+          7,
+          9
+        ]
+      },
+      {
+        "numbers": [
+          6,
+          23,
+          30,
+          41,
+          50
+        ],
+        "stars": [
+          5,
+          6
+        ]
+      }
+    ],
+    "checked": false,
+    "actual_draw": null,
+    "accuracy": null
+  },
+  {
+    "predicted_at": "2026-05-22 13:31",
+    "for_draw_number": 1948,
+    "after_draw": "19-05-2026",
+    "predictions": [
+      {
+        "numbers": [
+          19,
+          27,
+          28,
+          33,
+          40
+        ],
+        "stars": [
+          2,
+          5
+        ]
+      },
+      {
+        "numbers": [
+          4,
+          10,
+          25,
+          29,
+          48
+        ],
+        "stars": [
+          2,
+          11
+        ]
+      },
+      {
+        "numbers": [
+          2,
+          19,
+          23,
+          27,
+          47
+        ],
+        "stars": [
+          10,
+          11
+        ]
+      },
+      {
+        "numbers": [
+          21,
+          28,
+          31,
+          40,
+          48
+        ],
+        "stars": [
+          2,
+          11
+        ]
+      },
+      {
+        "numbers": [
+          2,
+          6,
+          23,
+          33,
+          43
+        ],
+        "stars": [
+          4,
+          12
         ]
       }
     ],
