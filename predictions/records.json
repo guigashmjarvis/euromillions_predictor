@@ -958,6 +958,106 @@
         ]
       }
     ],
+    "checked": true,
+    "actual_draw": {
+      "date": "29-05-2026",
+      "numbers": [
+        5,
+        14,
+        18,
+        31,
+        35
+      ],
+      "stars": [
+        2,
+        12
+      ],
+      "draw_number": 1950
+    },
+    "accuracy": [
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 1,
+        "matched_numbers": [],
+        "matched_stars": [
+          2
+        ]
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 1,
+        "matched_numbers": [],
+        "matched_stars": [
+          12
+        ]
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 1,
+        "matched_numbers": [],
+        "matched_stars": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "predicted_at": "2026-06-05 09:01",
+    "for_draw_number": 1952,
+    "after_draw": "02-06-2026",
+    "predictions": [
+      {
+        "numbers": [
+          2,
+          17,
+          31,
+          38,
+          42
+        ],
+        "stars": [
+          5,
+          9
+        ]
+      },
+      {
+        "numbers": [
+          18,
+          21,
+          24,
+          35,
+          36
+        ],
+        "stars": [
+          1,
+          5
+        ]
+      },
+      {
+        "numbers": [
+          5,
+          6,
+          9,
+          25,
+          26
+        ],
+        "stars": [
+          8,
+          12
+        ]
+      }
+    ],
     "checked": false,
     "actual_draw": null,
     "accuracy": null
