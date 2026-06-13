@@ -1173,6 +1173,135 @@
         ]
       }
     ],
+    "checked": true,
+    "actual_draw": {
+      "date": "09-06-2026",
+      "numbers": [
+        2,
+        7,
+        23,
+        44,
+        46
+      ],
+      "stars": [
+        3,
+        5
+      ],
+      "draw_number": 1953
+    },
+    "accuracy": [
+      {
+        "numbers_match": 1,
+        "stars_match": 1,
+        "matched_numbers": [
+          7
+        ],
+        "matched_stars": [
+          5
+        ]
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 1,
+        "stars_match": 0,
+        "matched_numbers": [
+          7
+        ],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 2,
+        "stars_match": 0,
+        "matched_numbers": [
+          23,
+          44
+        ],
+        "matched_stars": []
+      }
+    ]
+  },
+  {
+    "predicted_at": "2026-06-12 09:01",
+    "for_draw_number": 1954,
+    "after_draw": "09-06-2026",
+    "predictions": [
+      {
+        "numbers": [
+          5,
+          13,
+          16,
+          22,
+          25
+        ],
+        "stars": [
+          7,
+          12
+        ]
+      },
+      {
+        "numbers": [
+          12,
+          19,
+          36,
+          44,
+          46
+        ],
+        "stars": [
+          2,
+          7
+        ]
+      },
+      {
+        "numbers": [
+          3,
+          19,
+          25,
+          44,
+          48
+        ],
+        "stars": [
+          5,
+          9
+        ]
+      },
+      {
+        "numbers": [
+          8,
+          25,
+          36,
+          43,
+          46
+        ],
+        "stars": [
+          6,
+          11
+        ]
+      },
+      {
+        "numbers": [
+          15,
+          18,
+          23,
+          27,
+          36
+        ],
+        "stars": [
+          2,
+          5
+        ]
+      }
+    ],
     "checked": false,
     "actual_draw": null,
     "accuracy": null
