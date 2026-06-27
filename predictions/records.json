@@ -1809,5 +1809,80 @@
     "checked": false,
     "actual_draw": null,
     "accuracy": null
+  },
+  {
+    "predicted_at": "2026-06-26 09:01",
+    "for_draw_number": 1958,
+    "after_draw": "23-06-2026",
+    "predictions": [
+      {
+        "numbers": [
+          17,
+          30,
+          31,
+          33,
+          45
+        ],
+        "stars": [
+          9,
+          12
+        ]
+      },
+      {
+        "numbers": [
+          4,
+          10,
+          13,
+          41,
+          46
+        ],
+        "stars": [
+          6,
+          7
+        ]
+      },
+      {
+        "numbers": [
+          8,
+          29,
+          31,
+          40,
+          41
+        ],
+        "stars": [
+          5,
+          12
+        ]
+      },
+      {
+        "numbers": [
+          1,
+          15,
+          29,
+          37,
+          39
+        ],
+        "stars": [
+          1,
+          2
+        ]
+      },
+      {
+        "numbers": [
+          2,
+          15,
+          22,
+          43,
+          44
+        ],
+        "stars": [
+          6,
+          12
+        ]
+      }
+    ],
+    "checked": false,
+    "actual_draw": null,
+    "accuracy": null
   }
 ]
