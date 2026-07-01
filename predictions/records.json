@@ -1806,9 +1806,60 @@
         ]
       }
     ],
-    "checked": false,
-    "actual_draw": null,
-    "accuracy": null
+    "checked": true,
+    "actual_draw": {
+      "date": "26-06-2026",
+      "numbers": [
+        6,
+        16,
+        26,
+        34,
+        35
+      ],
+      "stars": [
+        11,
+        12
+      ],
+      "draw_number": 1958
+    },
+    "accuracy": [
+      {
+        "numbers_match": 0,
+        "stars_match": 1,
+        "matched_numbers": [],
+        "matched_stars": [
+          11
+        ]
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 1,
+        "matched_numbers": [],
+        "matched_stars": [
+          12
+        ]
+      },
+      {
+        "numbers_match": 1,
+        "stars_match": 0,
+        "matched_numbers": [
+          6
+        ],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      }
+    ]
   },
   {
     "predicted_at": "2026-06-26 09:01",
@@ -1878,6 +1929,132 @@
         "stars": [
           6,
           12
+        ]
+      }
+    ],
+    "checked": true,
+    "actual_draw": {
+      "date": "26-06-2026",
+      "numbers": [
+        6,
+        16,
+        26,
+        34,
+        35
+      ],
+      "stars": [
+        11,
+        12
+      ],
+      "draw_number": 1958
+    },
+    "accuracy": [
+      {
+        "numbers_match": 0,
+        "stars_match": 1,
+        "matched_numbers": [],
+        "matched_stars": [
+          12
+        ]
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 1,
+        "matched_numbers": [],
+        "matched_stars": [
+          12
+        ]
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 1,
+        "matched_numbers": [],
+        "matched_stars": [
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "predicted_at": "2026-06-30 09:02",
+    "for_draw_number": 1959,
+    "after_draw": "26-06-2026",
+    "predictions": [
+      {
+        "numbers": [
+          10,
+          13,
+          22,
+          34,
+          46
+        ],
+        "stars": [
+          7,
+          12
+        ]
+      },
+      {
+        "numbers": [
+          14,
+          19,
+          29,
+          35,
+          47
+        ],
+        "stars": [
+          2,
+          11
+        ]
+      },
+      {
+        "numbers": [
+          8,
+          12,
+          16,
+          24,
+          46
+        ],
+        "stars": [
+          7,
+          12
+        ]
+      },
+      {
+        "numbers": [
+          11,
+          14,
+          16,
+          20,
+          34
+        ],
+        "stars": [
+          6,
+          9
+        ]
+      },
+      {
+        "numbers": [
+          5,
+          13,
+          19,
+          32,
+          36
+        ],
+        "stars": [
+          1,
+          2
         ]
       }
     ],
