@@ -2567,6 +2567,319 @@
         ]
       }
     ],
+    "checked": true,
+    "actual_draw": {
+      "date": "28-07-2026",
+      "numbers": [
+        5,
+        7,
+        24,
+        30,
+        49
+      ],
+      "stars": [
+        10,
+        11
+      ],
+      "draw_number": 1967
+    },
+    "accuracy": [
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 1,
+        "matched_numbers": [],
+        "matched_stars": [
+          11
+        ]
+      },
+      {
+        "numbers_match": 1,
+        "stars_match": 0,
+        "matched_numbers": [
+          5
+        ],
+        "matched_stars": []
+      }
+    ]
+  },
+  {
+    "predicted_at": "2026-07-31 09:08",
+    "for_draw_number": 1968,
+    "after_draw": "28-07-2026",
+    "predictions": [
+      {
+        "numbers": [
+          26,
+          28,
+          30,
+          35,
+          39
+        ],
+        "stars": [
+          3,
+          12
+        ]
+      },
+      {
+        "numbers": [
+          20,
+          33,
+          35,
+          47,
+          48
+        ],
+        "stars": [
+          2,
+          9
+        ]
+      },
+      {
+        "numbers": [
+          12,
+          19,
+          23,
+          31,
+          39
+        ],
+        "stars": [
+          4,
+          7
+        ]
+      },
+      {
+        "numbers": [
+          14,
+          33,
+          40,
+          47,
+          48
+        ],
+        "stars": [
+          8,
+          12
+        ]
+      },
+      {
+        "numbers": [
+          5,
+          26,
+          29,
+          32,
+          37
+        ],
+        "stars": [
+          7,
+          8
+        ]
+      }
+    ],
+    "checked": true,
+    "actual_draw": {
+      "date": "31-07-2026",
+      "numbers": [
+        10,
+        24,
+        25,
+        31,
+        45
+      ],
+      "stars": [
+        4,
+        5
+      ],
+      "draw_number": 1968
+    },
+    "accuracy": [
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 1,
+        "stars_match": 1,
+        "matched_numbers": [
+          31
+        ],
+        "matched_stars": [
+          4
+        ]
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      }
+    ]
+  },
+  {
+    "predicted_at": "2026-08-11 09:01",
+    "for_draw_number": 1971,
+    "after_draw": "07-08-2026",
+    "predictions": [
+      {
+        "numbers": [
+          22,
+          28,
+          41,
+          42,
+          47
+        ],
+        "stars": [
+          8,
+          11
+        ]
+      },
+      {
+        "numbers": [
+          5,
+          6,
+          23,
+          24,
+          48
+        ],
+        "stars": [
+          9,
+          10
+        ]
+      },
+      {
+        "numbers": [
+          14,
+          17,
+          22,
+          25,
+          37
+        ],
+        "stars": [
+          1,
+          9
+        ]
+      },
+      {
+        "numbers": [
+          14,
+          16,
+          20,
+          32,
+          34
+        ],
+        "stars": [
+          3,
+          6
+        ]
+      },
+      {
+        "numbers": [
+          16,
+          22,
+          29,
+          32,
+          43
+        ],
+        "stars": [
+          3,
+          7
+        ]
+      },
+      {
+        "numbers": [
+          9,
+          17,
+          31,
+          39,
+          46
+        ],
+        "stars": [
+          5,
+          6
+        ]
+      },
+      {
+        "numbers": [
+          5,
+          6,
+          17,
+          19,
+          39
+        ],
+        "stars": [
+          4,
+          10
+        ]
+      },
+      {
+        "numbers": [
+          26,
+          30,
+          36,
+          37,
+          40
+        ],
+        "stars": [
+          7,
+          12
+        ]
+      },
+      {
+        "numbers": [
+          4,
+          16,
+          20,
+          23,
+          28
+        ],
+        "stars": [
+          2,
+          3
+        ]
+      },
+      {
+        "numbers": [
+          9,
+          17,
+          35,
+          44,
+          46
+        ],
+        "stars": [
+          7,
+          9
+        ]
+      }
+    ],
     "checked": false,
     "actual_draw": null,
     "accuracy": null
