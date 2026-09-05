@@ -3865,5 +3865,80 @@
     "checked": false,
     "actual_draw": null,
     "accuracy": null
+  },
+  {
+    "predicted_at": "2026-09-04 09:04",
+    "for_draw_number": 1977,
+    "after_draw": "28-08-2026",
+    "predictions": [
+      {
+        "numbers": [
+          24,
+          28,
+          37,
+          45,
+          46
+        ],
+        "stars": [
+          6,
+          9
+        ]
+      },
+      {
+        "numbers": [
+          7,
+          13,
+          18,
+          44,
+          46
+        ],
+        "stars": [
+          6,
+          8
+        ]
+      },
+      {
+        "numbers": [
+          1,
+          4,
+          17,
+          31,
+          45
+        ],
+        "stars": [
+          3,
+          12
+        ]
+      },
+      {
+        "numbers": [
+          6,
+          17,
+          26,
+          31,
+          44
+        ],
+        "stars": [
+          8,
+          9
+        ]
+      },
+      {
+        "numbers": [
+          17,
+          30,
+          31,
+          44,
+          45
+        ],
+        "stars": [
+          2,
+          7
+        ]
+      }
+    ],
+    "checked": false,
+    "actual_draw": null,
+    "accuracy": null
   }
 ]
