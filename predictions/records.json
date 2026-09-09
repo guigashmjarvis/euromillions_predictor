@@ -3862,9 +3862,58 @@
         ]
       }
     ],
-    "checked": false,
-    "actual_draw": null,
-    "accuracy": null
+    "checked": true,
+    "actual_draw": {
+      "date": "01-09-2026",
+      "numbers": [
+        2,
+        10,
+        23,
+        37,
+        47
+      ],
+      "stars": [
+        3,
+        5
+      ],
+      "draw_number": 1977
+    },
+    "accuracy": [
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 1,
+        "matched_numbers": [],
+        "matched_stars": [
+          5
+        ]
+      },
+      {
+        "numbers_match": 1,
+        "stars_match": 0,
+        "matched_numbers": [
+          37
+        ],
+        "matched_stars": []
+      }
+    ]
   },
   {
     "predicted_at": "2026-09-04 09:04",
@@ -3934,6 +3983,130 @@
         "stars": [
           2,
           7
+        ]
+      }
+    ],
+    "checked": true,
+    "actual_draw": {
+      "date": "01-09-2026",
+      "numbers": [
+        2,
+        10,
+        23,
+        37,
+        47
+      ],
+      "stars": [
+        3,
+        5
+      ],
+      "draw_number": 1977
+    },
+    "accuracy": [
+      {
+        "numbers_match": 1,
+        "stars_match": 0,
+        "matched_numbers": [
+          37
+        ],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 1,
+        "matched_numbers": [],
+        "matched_stars": [
+          3
+        ]
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      }
+    ]
+  },
+  {
+    "predicted_at": "2026-09-08 09:08",
+    "for_draw_number": 1979,
+    "after_draw": "04-09-2026",
+    "predictions": [
+      {
+        "numbers": [
+          3,
+          14,
+          23,
+          34,
+          46
+        ],
+        "stars": [
+          1,
+          6
+        ]
+      },
+      {
+        "numbers": [
+          3,
+          11,
+          19,
+          33,
+          45
+        ],
+        "stars": [
+          1,
+          12
+        ]
+      },
+      {
+        "numbers": [
+          5,
+          10,
+          12,
+          47,
+          50
+        ],
+        "stars": [
+          6,
+          12
+        ]
+      },
+      {
+        "numbers": [
+          6,
+          16,
+          23,
+          29,
+          46
+        ],
+        "stars": [
+          3,
+          4
+        ]
+      },
+      {
+        "numbers": [
+          2,
+          3,
+          8,
+          11,
+          40
+        ],
+        "stars": [
+          3,
+          10
         ]
       }
     ],
