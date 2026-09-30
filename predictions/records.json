@@ -4739,9 +4739,60 @@
         ]
       }
     ],
-    "checked": false,
-    "actual_draw": null,
-    "accuracy": null
+    "checked": true,
+    "actual_draw": {
+      "date": "25-09-2026",
+      "numbers": [
+        11,
+        12,
+        15,
+        38,
+        49
+      ],
+      "stars": [
+        10,
+        12
+      ],
+      "draw_number": 1984
+    },
+    "accuracy": [
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 1,
+        "stars_match": 0,
+        "matched_numbers": [
+          49
+        ],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 1,
+        "matched_numbers": [],
+        "matched_stars": [
+          10
+        ]
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 1,
+        "matched_numbers": [],
+        "matched_stars": [
+          10
+        ]
+      }
+    ]
   },
   {
     "predicted_at": "2026-09-25 17:50",
@@ -4811,6 +4862,130 @@
         "stars": [
           1,
           3
+        ]
+      }
+    ],
+    "checked": true,
+    "actual_draw": {
+      "date": "25-09-2026",
+      "numbers": [
+        11,
+        12,
+        15,
+        38,
+        49
+      ],
+      "stars": [
+        10,
+        12
+      ],
+      "draw_number": 1984
+    },
+    "accuracy": [
+      {
+        "numbers_match": 1,
+        "stars_match": 0,
+        "matched_numbers": [
+          38
+        ],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 1,
+        "stars_match": 0,
+        "matched_numbers": [
+          12
+        ],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      }
+    ]
+  },
+  {
+    "predicted_at": "2026-09-29 09:01",
+    "for_draw_number": 1985,
+    "after_draw": "25-09-2026",
+    "predictions": [
+      {
+        "numbers": [
+          10,
+          13,
+          30,
+          35,
+          38
+        ],
+        "stars": [
+          1,
+          10
+        ]
+      },
+      {
+        "numbers": [
+          5,
+          6,
+          9,
+          44,
+          48
+        ],
+        "stars": [
+          4,
+          7
+        ]
+      },
+      {
+        "numbers": [
+          5,
+          18,
+          27,
+          28,
+          50
+        ],
+        "stars": [
+          4,
+          5
+        ]
+      },
+      {
+        "numbers": [
+          7,
+          28,
+          31,
+          38,
+          43
+        ],
+        "stars": [
+          3,
+          10
+        ]
+      },
+      {
+        "numbers": [
+          4,
+          17,
+          23,
+          31,
+          48
+        ],
+        "stars": [
+          1,
+          12
         ]
       }
     ],
