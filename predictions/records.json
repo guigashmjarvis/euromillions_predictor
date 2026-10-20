@@ -5284,5 +5284,80 @@
     "checked": false,
     "actual_draw": null,
     "accuracy": null
+  },
+  {
+    "predicted_at": "2026-10-13 09:03",
+    "for_draw_number": 1989,
+    "after_draw": "09-10-2026",
+    "predictions": [
+      {
+        "numbers": [
+          36,
+          37,
+          38,
+          42,
+          43
+        ],
+        "stars": [
+          2,
+          10
+        ]
+      },
+      {
+        "numbers": [
+          14,
+          15,
+          23,
+          43,
+          44
+        ],
+        "stars": [
+          9,
+          10
+        ]
+      },
+      {
+        "numbers": [
+          1,
+          24,
+          29,
+          46,
+          50
+        ],
+        "stars": [
+          1,
+          10
+        ]
+      },
+      {
+        "numbers": [
+          1,
+          15,
+          16,
+          30,
+          43
+        ],
+        "stars": [
+          7,
+          8
+        ]
+      },
+      {
+        "numbers": [
+          14,
+          22,
+          31,
+          39,
+          46
+        ],
+        "stars": [
+          8,
+          9
+        ]
+      }
+    ],
+    "checked": false,
+    "actual_draw": null,
+    "accuracy": null
   }
 ]
