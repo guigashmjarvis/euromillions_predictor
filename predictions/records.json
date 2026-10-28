@@ -5281,9 +5281,56 @@
         ]
       }
     ],
-    "checked": false,
-    "actual_draw": null,
-    "accuracy": null
+    "checked": true,
+    "actual_draw": {
+      "date": "23-10-2026",
+      "numbers": [
+        24,
+        33,
+        35,
+        44,
+        47
+      ],
+      "stars": [
+        7,
+        11
+      ],
+      "draw_number": 1992
+    },
+    "accuracy": [
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 1,
+        "stars_match": 0,
+        "matched_numbers": [
+          47
+        ],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      }
+    ]
   },
   {
     "predicted_at": "2026-10-13 09:03",
@@ -5606,6 +5653,135 @@
         "stars": [
           10,
           11
+        ]
+      }
+    ],
+    "checked": true,
+    "actual_draw": {
+      "date": "23-10-2026",
+      "numbers": [
+        24,
+        33,
+        35,
+        44,
+        47
+      ],
+      "stars": [
+        7,
+        11
+      ],
+      "draw_number": 1992
+    },
+    "accuracy": [
+      {
+        "numbers_match": 2,
+        "stars_match": 0,
+        "matched_numbers": [
+          24,
+          47
+        ],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 1,
+        "stars_match": 1,
+        "matched_numbers": [
+          44
+        ],
+        "matched_stars": [
+          11
+        ]
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 1,
+        "matched_numbers": [],
+        "matched_stars": [
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "predicted_at": "2026-10-27 09:03",
+    "for_draw_number": 1993,
+    "after_draw": "23-10-2026",
+    "predictions": [
+      {
+        "numbers": [
+          10,
+          14,
+          39,
+          47,
+          49
+        ],
+        "stars": [
+          5,
+          6
+        ]
+      },
+      {
+        "numbers": [
+          3,
+          16,
+          24,
+          31,
+          35
+        ],
+        "stars": [
+          4,
+          6
+        ]
+      },
+      {
+        "numbers": [
+          7,
+          27,
+          37,
+          42,
+          50
+        ],
+        "stars": [
+          4,
+          7
+        ]
+      },
+      {
+        "numbers": [
+          2,
+          28,
+          43,
+          45,
+          47
+        ],
+        "stars": [
+          10,
+          11
+        ]
+      },
+      {
+        "numbers": [
+          15,
+          17,
+          29,
+          30,
+          32
+        ],
+        "stars": [
+          5,
+          10
         ]
       }
     ],
