@@ -6040,6 +6040,128 @@
         ]
       }
     ],
+    "checked": true,
+    "actual_draw": {
+      "date": "03-11-2026",
+      "numbers": [
+        13,
+        23,
+        38,
+        39,
+        48
+      ],
+      "stars": [
+        5,
+        8
+      ],
+      "draw_number": 1995
+    },
+    "accuracy": [
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 1,
+        "stars_match": 0,
+        "matched_numbers": [
+          48
+        ],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      }
+    ]
+  },
+  {
+    "predicted_at": "2026-11-06 09:02",
+    "for_draw_number": 1996,
+    "after_draw": "03-11-2026",
+    "predictions": [
+      {
+        "numbers": [
+          2,
+          15,
+          17,
+          19,
+          46
+        ],
+        "stars": [
+          8,
+          11
+        ]
+      },
+      {
+        "numbers": [
+          18,
+          22,
+          23,
+          36,
+          50
+        ],
+        "stars": [
+          1,
+          10
+        ]
+      },
+      {
+        "numbers": [
+          3,
+          11,
+          12,
+          28,
+          39
+        ],
+        "stars": [
+          2,
+          4
+        ]
+      },
+      {
+        "numbers": [
+          27,
+          29,
+          30,
+          45,
+          50
+        ],
+        "stars": [
+          4,
+          6
+        ]
+      },
+      {
+        "numbers": [
+          8,
+          20,
+          24,
+          33,
+          45
+        ],
+        "stars": [
+          6,
+          12
+        ]
+      }
+    ],
     "checked": false,
     "actual_draw": null,
     "accuracy": null
