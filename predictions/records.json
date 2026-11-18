@@ -6412,6 +6412,130 @@
         ]
       }
     ],
+    "checked": true,
+    "actual_draw": {
+      "date": "13-11-2026",
+      "numbers": [
+        16,
+        27,
+        32,
+        41,
+        45
+      ],
+      "stars": [
+        2,
+        12
+      ],
+      "draw_number": 1998
+    },
+    "accuracy": [
+      {
+        "numbers_match": 1,
+        "stars_match": 0,
+        "matched_numbers": [
+          32
+        ],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 1,
+        "matched_numbers": [],
+        "matched_stars": [
+          2
+        ]
+      },
+      {
+        "numbers_match": 0,
+        "stars_match": 0,
+        "matched_numbers": [],
+        "matched_stars": []
+      }
+    ]
+  },
+  {
+    "predicted_at": "2026-11-17 09:02",
+    "for_draw_number": 1999,
+    "after_draw": "13-11-2026",
+    "predictions": [
+      {
+        "numbers": [
+          1,
+          8,
+          32,
+          34,
+          44
+        ],
+        "stars": [
+          1,
+          6
+        ]
+      },
+      {
+        "numbers": [
+          5,
+          11,
+          12,
+          22,
+          49
+        ],
+        "stars": [
+          6,
+          11
+        ]
+      },
+      {
+        "numbers": [
+          1,
+          7,
+          17,
+          33,
+          40
+        ],
+        "stars": [
+          5,
+          11
+        ]
+      },
+      {
+        "numbers": [
+          23,
+          37,
+          39,
+          43,
+          47
+        ],
+        "stars": [
+          6,
+          12
+        ]
+      },
+      {
+        "numbers": [
+          4,
+          12,
+          17,
+          31,
+          45
+        ],
+        "stars": [
+          2,
+          10
+        ]
+      }
+    ],
     "checked": false,
     "actual_draw": null,
     "accuracy": null
